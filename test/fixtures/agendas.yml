@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  speaker: MyString
+  description: MyText
+  event: one
+  location: one
+  start_at: 2016-05-28 23:12:46
+  end_at: 2016-05-28 23:12:46
+
+two:
+  name: MyString
+  speaker: MyString
+  description: MyText
+  event: two
+  location: two
+  start_at: 2016-05-28 23:12:46
+  end_at: 2016-05-28 23:12:46
