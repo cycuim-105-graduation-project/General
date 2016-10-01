@@ -1,2 +1,0 @@
-[![Stories in Ready](https://badge.waffle.io/cycuim-105-graduation-project/Graduation-Project.png?label=ready&title=Ready)](https://waffle.io/cycuim-105-graduation-project/Graduation-Project)
-# Graduation-Project
